@@ -23,6 +23,4 @@ A modern, responsive developer portfolio website with animated elements, particl
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/Portfolio.git
+soon.....
