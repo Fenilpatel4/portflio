@@ -1,29 +1,28 @@
+# 🚀 Developer Portfolio 
 
-**Live Demo Link Format:**  
-`https://your-username-portfolio.vercel.app`  
-*(Replace with your actual deployment URL)*
+![GitHub](https://img.shields.io/github/license/your-username/Portfolio?color=cyan&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/your-username/Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/Portfolio?style=social)
+![GitHub issues](https://img.shields.io/github/issues/your-username/Portfolio?color=cyan&style=flat-square)
 
-**Repo Link Format:**  
-`https://github.com/your-username/Portfolio`
+A modern, responsive developer portfolio website with animated elements, particle background, and functional contact form. Built with ❤️ and modern web technologies.
 
-### To Use This README:
+[![Live Demo](https://img.shields.io/badge/❤️_Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://bapux03.github.io/Portfolio/)
 
-1. Replace all `your-username` occurrences with your GitHub username
-2. Update contact information and social links
-3. Add your actual deployment URL
-4. Customize features and technologies as needed
-5. Add your license file
-6. Update the assets directory structure if different
+## 🌟 Features
 
-This README includes:
-- Interactive badges
-- Clear installation instructions
-- Visual technology stack display
-- Contribution guidelines
-- License information
-- Demo button with heart emoji ❤️
-- Responsive formatting for GitHub
-- Deployment buttons
-- Coffee sponsorship link
+- 🎨 Modern Dark Theme UI
+- ✨ Animated Elements (AOS.js)
+- 🌌 Interactive Particle Background
+- 📱 Fully Responsive Design
+- 📨 Working Contact Form (Formspree)
+- 🛠️ Tech Stack Badges
+- 📁 Project Showcase Section
+- 📈 Skill Progress Indicators
+- 📄 Resume Download Section
 
-The repository name should be exactly "Portfolio" as requested. The live demo button uses a pink heart emoji for extra visibility and love! 💖
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/Portfolio.git
