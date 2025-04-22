@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+        $(".touch").mouseenter(function(){
+        $(".div1").css({"color": "white","transition":"5s","border-radius":"30%","position":"relative","right":"-600px","height":"100px","width":"30%" });
+
+
+        $(".div2").css({"color": "blue","transition":"5s","border-radius":"30%","height":"100px","width":"30%" ,"position":"relative","left":"600px", });
+
+        $(".div3").css({"color": "red","transition":"5s","border-radius":"30%","position":"relative","right":"-600px","height":"100px","width":"30%" });
+
+
+        $(".div4").css({"color": "white","transition":"5s","border-radius":"30%","height":"100px","width":"30%" ,"position":"relative","left":"600px", });
+
+  });
+});
+
+    </script>
+
+</head>
+<body>
+
+    <div style="height: 500px;width: 100%;background-color: yellow;">
+        <div style="height: 100px;width: 30%;background-color: red;position: relative;right: 1800px ;" class="div1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse, aliquid, sunt nesciunt commodi earum, corporis animi veritatis molestiae inventore explicabo modi delectus ipsum alias ad adipisci aliquam. Amet, dolorum aliquam.</div>
+        <div style="height: 100px;width: 30%;background-color: skyblue;position: relative;left: 1800px" class="div2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse, aliquid, sunt nesciunt commodi earum, corporis animi veritatis molestiae inventore explicabo modi delectus ipsum alias ad adipisci aliquam. Amet, dolorum aliquam.</div>
+        <div style="height: 100px;width: 30%;background-color: orange;position: relative;right: 1800px ;" class="div3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse, aliquid, sunt nesciunt commodi earum, corporis animi veritatis molestiae inventore explicabo modi delectus ipsum alias ad adipisci aliquam. Amet, dolorum aliquam.</div>
+        <div style="height: 100px;width: 30%;background-color: blue;position: relative;left: 1800px" class="div4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse, aliquid, sunt nesciunt commodi earum, corporis animi veritatis molestiae inventore explicabo modi delectus ipsum alias ad adipisci aliquam. Amet, dolorum aliquam.</div>
+    
+    
+    </div>
+
+    <button style="height: 50px;width: 10%;background-color: greenyellow;border: none;border-radius: 20px;color:red;" class="touch">TOUCH</button>
+    
+</body>
+</html>
